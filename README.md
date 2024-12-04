@@ -7,6 +7,9 @@
 - Ejemplo de Dockefile para desplegar un back de NODE con Docker -> [Ejemplo](https://github.com/fsalazar89/mi-documentacion/blob/main/Procesos-Docker/Dokerfile-ejemplo-back-node)
 - Ejemplo de Dockefile para desplegar un front de Angular con Docker -> [Ejemplo](https://github.com/fsalazar89/mi-documentacion/blob/main/Procesos-Docker/Dokerfile-ejemplo-front-angular)
 
+### Scripts LINUX
+Script para desplegar un proyecto en diferentes ambientes -> [Ejemplo](xxxxxxxxxxxxx)
+
 ### NGINX
 - Ejemplo de nginx.conf para implementar certificados SSL en un proyecto de Angular -> [Ejemplo](https://github.com/fsalazar89/mi-documentacion/blob/main/Procesos-NGINX/nginx.conf) 
 
