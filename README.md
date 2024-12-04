@@ -1,14 +1,15 @@
 # Mi Documentacion
 
-### Rama: **procesos-git**
-Pautas para versionar proyecto con GIT, para más información [pulsa aquí](https://github.com/fsalazar89/mi-documentacion/blob/procesos-git/flujo-git.md)
+### Procesos-Git
+- Pautas para versionar proyecto con GIT, para más información [pulsa aquí](https://github.com/fsalazar89/mi-documentacion/blob/procesos-git/flujo-git.md)
 
-### Rama **docker**
-Documentacion en contrucción.
+### docker
+- Ejemplo de Dockefile para desplegar un back de NODE con Docker -> [Ejemplo](https://github.com/fsalazar89/mi-documentacion/blob/procesos-git/flujo-git.md)
+- Ejemplo de Dockefile para desplegar un back de NODE con Docker -> [Ejemplo](https://github.com/fsalazar89/mi-documentacion/blob/procesos-git/flujo-git.md)
 
-### Rama **PM2**
-Documentacion en contrucción.
+### PM2
+Comando de PM2 para lanzar y administrar proyectos con PM2 -> [Comandos](https://github.com/fsalazar89/mi-documentacion/blob/procesos-git/flujo-git.md)
 
-### Rama **pruebas-automaticas**
+### pruebas-automaticas
 Documentacion en contrucción.
 

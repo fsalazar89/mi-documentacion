@@ -1,0 +1,21 @@
+FROM node:20-alpine
+
+WORKDIR /usr/src/app
+
+COPY package*.json ./
+
+# # Desactivar la verificación del certificado SSL
+# RUN npm config set strict-ssl false
+
+# Si el proyecto es TypesCript se instala TypeScript globalmente dentor del contenedor
+RUN npm install -g typescript
+
+COPY . .
+
+RUN npm install
+
+EXPOSE 8211
+
+ENV AMBIENTE_APP production
+
+CMD ["sh", "-c", "if [ \"$AMBIENTE_APP\" = \"production\" ]; then npm run start; else npm run dev; fi"]
